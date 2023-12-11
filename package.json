@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "echarts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangkboy/EchartsJSDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangkboy/EchartsJSDemo/issues"
+  },
+  "homepage": "https://github.com/zhangkboy/EchartsJSDemo#readme",
+  "dependencies": {
+    "echarts": "^5.4.3"
+  }
+}
